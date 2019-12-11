@@ -10,6 +10,7 @@ Liste des commandes à réaliser :
 2) rogner les parties indésirables :
 
     a) outils > outils de sélection > sélection rectangulaire > définir le cadre de la sélection avec le curseur
+    
     b) image > rogner selon la sélection
 
 3) éventuellement ajouter des traits sur la photo ou gommer ou flouter une zone :
