@@ -6,15 +6,15 @@
 
 Liste des commandes à réaliser successivement :
 
-1. **ouvrir la photo avec GIMP**
+1. **Ouvrir la photo avec GIMP**
 
-1. **rogner les parties indésirables :**
+1. **Rogner les parties indésirables :**
 
     1. outils > outils de sélection > sélection rectangulaire > définir le cadre de la sélection avec le curseur
     
     1. image > rogner selon la sélection
 
-1. **éventuellement ajouter des traits sur la photo ou gommer ou flouter une zone :**
+1. **Eventuellement, ajouter des traits sur la photo ou gommer ou flouter une zone :**
 
     1. outils > outil de peinture > crayon ou pinceau ou gomme...
     
@@ -23,7 +23,7 @@ Liste des commandes à réaliser successivement :
     si besoin, modifier préalablement la taille ou l'aspect du trait :
     outil > nlle boîte à outils > crayon (ou autre...) (2 clics) > taille du trait etc. > enregistrer
 
-1. définir l'échelle et la taille de la photo :
+1. **Définir l'échelle et la taille de la photo :**
 
     1. en bas de la fenêtre principale de GIMP, définir l'affichage à 100%
     
@@ -34,7 +34,7 @@ Liste des commandes à réaliser successivement :
     
     1. cliquer sur "échelle" pour appliquer et sortir
 
-1. exporter pour le Web :
+1. **Exporter pour le Web :**
 
     1. fichier > exporter sous > donner un nouveau nom avec l'extension ".jpg"
     
@@ -50,4 +50,4 @@ Liste des commandes à réaliser successivement :
        
     1. cliquer sur "exporter"
 
-1. fermer "GIMP" sans conserver les modifications
+1. **Fermer "GIMP" sans conserver les modifications**
