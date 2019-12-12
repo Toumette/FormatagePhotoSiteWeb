@@ -12,9 +12,9 @@ Liste des commandes à réaliser successivement :
 
 1. rogner les parties indésirables :
 
-    1. outils > outils de sélection > sélection rectangulaire > définir le cadre de la sélection avec le curseur
+    a. outils > outils de sélection > sélection rectangulaire > définir le cadre de la sélection avec le curseur
     
-    1. image > rogner selon la sélection
+    a. image > rogner selon la sélection
 
 3) éventuellement ajouter des traits sur la photo ou gommer ou flouter une zone :
 
