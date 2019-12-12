@@ -1,5 +1,3 @@
-(TODO : convertir en MARKDOWN...)
-
 # FormatagePhotoSiteWeb
 
 ### Liste des opérations à effectuer pour préparer des photos afin de les insérer le plus efficacement possible dans les pages d'un site Web.
@@ -8,15 +6,15 @@
 
 Liste des commandes à réaliser successivement :
 
-1. ouvrir la photo avec GIMP
+1. **ouvrir la photo avec GIMP**
 
-1. rogner les parties indésirables :
+1. **rogner les parties indésirables :**
 
     1. outils > outils de sélection > sélection rectangulaire > définir le cadre de la sélection avec le curseur
     
     1. image > rogner selon la sélection
 
-1. éventuellement ajouter des traits sur la photo ou gommer ou flouter une zone :
+1. **éventuellement ajouter des traits sur la photo ou gommer ou flouter une zone :**
 
     1. outils > outil de peinture > crayon ou pinceau ou gomme...
     
