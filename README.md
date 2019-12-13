@@ -53,3 +53,5 @@
 1. **Fermer "GIMP" sans conserver les modifications**
 
 _Petit conseil supplémentaire : pour vos photos ou documents uploadés sur un site Web, préférer des noms en minuscules sans espaces, sans caractères accentués ni caractères spéciaux ( \_ et - sont admis ainsi que les chiffres en général )._
+
+© Henri 10/12/19
