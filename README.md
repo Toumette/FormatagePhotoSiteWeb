@@ -52,4 +52,4 @@ Liste des commandes à réaliser successivement :
 
 1. **Fermer "GIMP" sans conserver les modifications**
 
-_Petit conseil supplémentaire : pour vos photos ou documents uploadés sur un site Web, préférer des noms en minuscule sans espaces, sans caractères accentués ni caractère spéciaux ( \_ et - sont admis )._
+_Petit conseil supplémentaire : pour vos photos ou documents uploadés sur un site Web, préférer des noms en minuscules sans espaces, sans caractères accentués ni caractères spéciaux ( \_ et - sont admis ainsi que les chiffres en général )._
