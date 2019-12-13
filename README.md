@@ -2,9 +2,9 @@
 
 ### Liste des opérations à effectuer pour préparer des photos afin de les insérer le plus efficacement possible dans les pages d'un site Web.
 
-* Testé avec GIMP sous OpenSuse Leap ; photos uploadées sur serveur Web NGINX avec CMS GRAV
+* Testé avec GIMP sous Linux OpenSuse Leap ; photos uploadées sur serveur Web NGINX avec CMS GRAV
 
-Liste des commandes à réaliser successivement :
+#### Liste des commandes à réaliser successivement :
 
 1. **Ouvrir la photo avec GIMP**
 
