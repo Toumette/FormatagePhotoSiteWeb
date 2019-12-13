@@ -4,7 +4,7 @@
 
 * Testé avec GIMP sous Linux OpenSuse Leap ; photos uploadées sur serveur Web NGINX avec CMS GRAV
 
-#### Liste des commandes à réaliser successivement :
+### Liste des commandes à réaliser successivement :
 
 1. **Ouvrir la photo avec GIMP**
 
