@@ -28,7 +28,7 @@ Liste des commandes à réaliser successivement :
     1. en bas de la fenêtre principale de GIMP, définir l'affichage à 100%
     
     1. image > échelle et taille de l'image > définir la largeur (400 à 600 px environ)
-       (la hauteur se calcule automatiquement)
+       NB : la hauteur se calcule automatiquement
        
     1. choisir la résolution xy (75 px/inch env.)
     
@@ -51,3 +51,5 @@ Liste des commandes à réaliser successivement :
     1. cliquer sur "exporter"
 
 1. **Fermer "GIMP" sans conserver les modifications**
+
+_Petit conseil supplémentaire : pour vos photos ou documents uploadés sur un site Web, préférer des noms en minuscule sans espaces, sans caractères accentués ni caractère spéciaux (_ _et - sont admis)._
